@@ -19,16 +19,14 @@ One major challenge that was indirectly related to the project was that I could 
 
 ## Data Summary Results
 - The WeatherPy_Database contains over 700 cities found from our 2000 lat/long pairs.
+![WeatherPy_Vacation_map](https://user-images.githubusercontent.com/124399950/221611458-e4c5ba08-c9da-4b3b-91c6-b40bf4c106bc.png)
 - WeatherPy_vacation contains 327 cities; most, but not all, of which have hotels (this is filtered based on user input of min 65 and max 85 degrees F).
-
-![WeatherPy_Vacation_map](C:\Users\jasmi\Desktop\Class\Module-6-\Module-6-API\Vacation_Search\WeatherPyShot.PNG)
-
 - Weather_Vacation_Map includes travel paths shown on the map
 
-![WeatherPy_travel_map](C:\Users\jasmi\Desktop\Class\Module-6-\Module-6-API\Vacation_Itinerary\TavelMap.PNG)
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/124399950/221611808-342a697a-ea48-493d-93b5-4b48548a3e8e.png)
 
-![WeatherPy_travel_map_markers](insert url)
+
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/124399950/221612182-10c2b538-a604-4f7e-926a-9c3aa530905e.png)
 
 ## Conclusion
-APIs are a powerful skill to add to the toolbelt. access to data across the web enables so many possibilities for future data analysis and exploration. 
-additionally gmaps and citipy are both very useful libraries for geographic data and ability to display. 
+APIs are a powerful skill to add to my portfolio. Access to data across the web enables so many possibilities for future data analysis and exploration.  gmaps and citipy are both very useful libraries for geographic data and ability to display. 
